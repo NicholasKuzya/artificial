@@ -1,0 +1,28 @@
+.header {
+	background-color: #0a121f;
+	padding: 10px 0;
+	line-height: 22px;
+	a {
+		color: #fff;
+	}
+	.nav {
+		// .nav-logo
+		&-logo {
+			color: $dark-blue;
+			font-size: 23px;
+			line-height: 31px;
+			img {
+				margin-right: 15px;
+				max-width: 44px;
+				max-height: 57px;
+			}
+		}
+		// .nav-list
+		&-list {
+			// .nav-list__item
+			&__item {
+				margin-left: 40px;
+			}
+		}
+	}
+}

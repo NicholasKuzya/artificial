@@ -1,0 +1,10 @@
+.btn {
+	// .btn-darkblue
+	&-darkblue {
+		padding: 15px 30px;
+			background-color: $dark-blue;
+			border-radius: 5px;
+			color: #fff;
+			font-weight: 600;
+	}
+}

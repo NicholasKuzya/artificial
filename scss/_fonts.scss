@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Open sans';
+  src: url('../fonts/OpenSans-Regular.ttf');
+  src: local('../fonts/OpenSans-Regular.ttf'), local('../fonts/OpenSans-Regular.ttf'),
+      url('../fonts/OpenSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open sans';
+  src: url('../fonts/OpenSans-Medium.ttf');
+  src: local('../fonts/OpenSans-Medium.ttf'), local('../fonts/OpenSans-Medium.ttf'),
+      url('../fonts/OpenSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open sans';
+  src: url('../fonts/OpenSans-SemiBold.ttf');
+  src: local('../fonts/OpenSans-SemiBold.ttf'), local('../fonts/OpenSans-SemiBold.ttf'),
+      url('../fonts/OpenSans-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open sans';
+  src: url('../fonts/OpenSans-Bold.ttf');
+  src: local('../fonts/OpenSans-Bold.ttf'), local('../fonts/OpenSans-Bold.ttf'),
+      url('../fonts/OpenSans-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open sans';
+  src: url('../fonts/OpenSans-ExtraBold.ttf');
+  src: local('../fonts/OpenSans-ExtraBold.ttf'), local('../fonts/OpenSans-ExtraBold.ttf'),
+      url('../fonts/OpenSans-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Circular std';
+  src: url('../fonts/CircularStd-Book.ttf');
+  src: local('../fonts/CircularStd-Book.ttf'), local('../fonts/CircularStd-Book.ttf'),
+      url('../fonts/CircularStd-Book.ttf') format('truetype');
+  font-weight: 450;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Circular std';
+  src: url('../fonts/CircularStd-Medium.ttf');
+  src: local('../fonts/CircularStd-Medium.ttf'), local('../fonts/CircularStd-Medium.ttf'),
+      url('../fonts/CircularStd-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
